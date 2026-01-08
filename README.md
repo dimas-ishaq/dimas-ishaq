@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00a8cc&height=200&section=header&text=Hi%20I'm%20Dimas%20Maulana&fontSize=70&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=waving&color=00a8cc&height=200&section=header&text=Hi%20I'm%20Dimas%20Maulana&fontSize=70&animation=fadeIn" width="100%" />
+
+  <br />
+
+  <img src="https://github.com/dimas-ishaq.png" width="150px" style="border-radius: 50%;" />
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=dimas-ishaq&label=Profile%20Views&color=00a8cc&style=flat" alt="dimas-ishaq" />
