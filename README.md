@@ -21,10 +21,10 @@
 
 Seorang pengembang yang antusias dan sedang mendalami dunia **Cloud Computing**. Saat ini saya fokus membangun solusi digital yang efisien dan skalabel.
 
-* 🔭 **Proyek Saat Ini:** Menjalankan [FASTABIKA TRAVEL](https://github.com/dimas-ishaq)
+* 🔭 **Pekerjaan Saat Ini:** Bekerja di [FASTABIKA TRAVEL] dan mengajar di [SMK PLUS PELITA NUSANTARA](https://github.com/dimas-ishaq)
 * 🌱 **Sedang Belajar:** Cloud Computing (GCP/AWS) & Backend Engineering
 * 👯 **Kolaborasi:** Terbuka untuk diskusi proyek Cloud & Open Source
-* 📫 **Kontak:** [dimasishaq@email.com](mailto:USERNAME_KAMU@email.com)
+* 📫 **Kontak:** [dimasmaulanaishaq01@gmail.com](mailto:dimasmaulanaishaq01@gmail.com)
 * ⚡ **Fun Fact:** Suka eksplorasi tools baru untuk produktivitas.
 
 ---
