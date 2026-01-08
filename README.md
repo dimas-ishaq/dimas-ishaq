@@ -1,12 +1,19 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/render?type=waving&color=00a8cc&height=200&section=header&text=Hi%20I'm%20Dimas%20Maulana&fontSize=70&animation=fadeIn" width="100%" />
-
-  <br />
-
-  <img src="https://github.com/dimas-ishaq.png" width="150px" style="border-radius: 50%;" />
   
+  <img src="https://img.shields.io/badge/DIMAS%20MAULANA%20ISHAQ-Cloud%20Computing%20Enthusiast-00a8cc?style=for-the-badge&labelColor=black" height="35" />
+
+  <br><br>
+
+  <img src="https://github.com/dimas-ishaq.png" width="150" style="border-radius: 50%; border: 3px solid #00a8cc;" />
+
+  <br>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00A8CC&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Cloud+Computing+Learner;Fastabika+Travel+Lead" alt="Typing SVG" />
+  </a>
+
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=dimas-ishaq&label=Profile%20Views&color=00a8cc&style=flat" alt="dimas-ishaq" />
+    <img src="https://komarev.com/ghpvc/?username=dimas-ishaq&label=Profile%20Views&color=00a8cc&style=flat-square" alt="dimas-ishaq" />
   </p>
 </div>
 
